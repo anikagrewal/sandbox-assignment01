@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandbox-assignment01/static/css/main.fa2d3f8b.css",
+    "main.js": "/sandbox-assignment01/static/js/main.24243dec.js",
+    "index.html": "/sandbox-assignment01/index.html",
+    "main.fa2d3f8b.css.map": "/sandbox-assignment01/static/css/main.fa2d3f8b.css.map",
+    "main.24243dec.js.map": "/sandbox-assignment01/static/js/main.24243dec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa2d3f8b.css",
+    "static/js/main.24243dec.js"
+  ]
+}
